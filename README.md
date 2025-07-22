@@ -1,4 +1,4 @@
-# Sloffies---Parametric-slides
+# Sloffies - Parametric slides
 Sloffies is an Afrikaans nickname for slides and flip-flops.
 
 I have designed Sloffies to be parametric so anyone can customize them for their feet. 
