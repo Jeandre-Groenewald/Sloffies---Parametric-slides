@@ -7,3 +7,5 @@ You are able to customize the sole's width, length, and thickness; add a patch; 
 
 I designed it to work with the customizer on MakerWorld, for the best user experience I would recommend using that.
 The script is Open Source you are free to remix, adapt, and build on the existing design.
+
+![slide shoes](cover photo.jpg)
