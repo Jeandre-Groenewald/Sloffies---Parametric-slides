@@ -7,7 +7,7 @@ You are able to customize the sole's width, length, and thickness; add a patch; 
 
 I designed it to work with the customizer on MakerWorld, for the best user experience I would recommend using that.
 
-You can find the model on MakerWorld: [MakerWorld](https://makerworld.com/en/models/1630149-sloffies-parametric-slides#profileId-1721631).
+You can find the model on MakerWorld: [Sloffies - Parametric slides](https://makerworld.com/en/models/1630149-sloffies-parametric-slides#profileId-1721631).
 
 The script is Open Source you are free to remix, adapt, and build on the existing design.
 
