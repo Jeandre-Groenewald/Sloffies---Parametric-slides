@@ -9,6 +9,8 @@ I designed it to work with the customizer on MakerWorld, for the best user exper
 
 You can find the model on MakerWorld: [Sloffies - Parametric slides](https://makerworld.com/en/models/1630149-sloffies-parametric-slides#profileId-1721631).
 
+You can also use the OpenCAD customizer, the UI and UX just won't be as user friendly.
+
 The OpenSCAD script is Open Source you are free to remix, adapt, and build on the existing design.
 
 ![slide shoes](cover_photo.JPG)
